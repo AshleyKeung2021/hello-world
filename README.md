@@ -2,7 +2,7 @@
 My first repository on GitHub.
 
 
-# hello-world
+## hello-world
 My first repository on GitHub
 
-# Duplicate the first paragraph
+## Duplicate the first paragraph
